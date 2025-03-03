@@ -1,5 +1,5 @@
 ### AQU Model United Nations
-### Official repository for Al-Quds University's Model United Nations website.
+### repository for Al-Quds University's Model United Nations website.
 
 ### Features:
 
